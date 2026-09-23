@@ -1,0 +1,6 @@
+{
+  "name": "DA Flowers Atelier Baku",
+  "description": "Haute floristry atelier in Baku. Sculptural botanical compositions, bespoke arrangements, and white-glove delivery across Azerbaijan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
